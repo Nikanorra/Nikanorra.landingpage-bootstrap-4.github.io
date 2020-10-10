@@ -339,7 +339,15 @@ h2 {
 }
 
 
-
+#copy {
+  background-color: #3f464c;
+  line-height: 50px;
+  color: #cacaca;
+  font-size: 14px;
+}
+#copy p {
+  opacity: 0.5;
+}
 
 
 
