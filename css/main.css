@@ -291,8 +291,16 @@ h2 {
 .was-validated .form-control:invalid:focus {
   box-shadow: none;
 }
-
-
+.ui-selectmenu-button.ui-button {
+  width: 100%;
+  /* line-height: 44px; */
+}
+.ui-button {
+  padding: 0 0 0 18px;
+}
+.ui-selectmenu-text {
+  line-height: 44px;
+}
 
 
 

@@ -27,4 +27,13 @@ $(function(){
         }, false);
       });
     }, false);
-  })();
+  });
+
+// 2cc7c1 green
+// 525b64 grey
+// 68737e soft grey
+// 219d99 - icon
+
+$(document).ready(function() {
+  $('#inlineFormCustomSelect').selectmenu();
+});
