@@ -302,8 +302,11 @@ h2 {
   line-height: 44px;
 }
 
-
-
+/*sponsors*/
+#sponsors {
+  background: white;
+  padding: 60px 0;
+}
 
 
 
@@ -323,6 +326,9 @@ h2 {
     display: block;
     margin-bottom: 20px;
   }
+  #myForm .btn .fas.fa-chevron-circle-right {
+    display: none;
+  }
 }
 
 /* Medium Devices, Desktops */
@@ -338,6 +344,13 @@ h2 {
  #events .row.item {
    margin-top: 20px;
  }
+ #sponsors {
+   margin: 0;
+ }
+ #sponsors img {
+   margin-bottom: 10px;
+   margin-top: 10px;
+ }
 }
 
 /* Small Devices, Tablets */
@@ -348,7 +361,12 @@ h2 {
   .collapse-link {
     font-size: 15px;
   }
-
+  #myForm .btn.btn-primary {
+    margin-top: 7px;
+  }
+  #myForm .btn .fas.fa-chevron-circle-right {
+    display: inline;
+  }
 }
 /*vieo*/
 
