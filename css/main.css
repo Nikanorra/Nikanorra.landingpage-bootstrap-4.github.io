@@ -307,6 +307,37 @@ h2 {
   background: white;
   padding: 60px 0;
 }
+/*footer*/
+#contacts {
+  background-color: #525b64;
+  padding: 70px 0;
+}
+#contacts h4, h3 {
+  color: white;
+  margin: 0 0 25px;
+  font-weight: normal;
+}
+#contacts span {
+  font-weight: bold;
+}
+#contacts h4 {
+  font-size: 20px;
+}
+#contacts p {
+  font-size: 16px;
+  color: #cdd0d2;
+}
+#contacts .contacts p {
+  font-weight: 500;
+  color: #2cc7c1;
+}
+#contacts .contacts i {
+  padding-right: 5px;
+}
+#contacts .social img {
+  padding-right: 15px;
+}
+
 
 
 
@@ -352,6 +383,7 @@ h2 {
    margin-top: 10px;
  }
 }
+
 
 /* Small Devices, Tablets */
 @media only screen and (max-width : 768px) {
