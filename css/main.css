@@ -34,6 +34,7 @@ h2 {
   background: url("../img/2.jpg") center no-repeat;
   background-size: cover;
   height: 100vh;
+  min-height: 500px
 }
 
 .section-table {
